@@ -13,6 +13,7 @@ Url:		http://search.cpan.org/dist/%{upstream_name}
 Source0:	http://www.cpan.org/modules/by-module/Net/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires:	perl-devel
+BuildRequires: perl(Net::OpenID::Common)
 BuildRequires:	perl(Crypt::DH)
 BuildRequires:	perl(Digest::SHA1)
 BuildRequires:	perl(MIME::Base64)
