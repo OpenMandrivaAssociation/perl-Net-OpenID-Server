@@ -1,2 +1,4 @@
+removed_sources:
+  Net-OpenID-Server-1.02.tar.gz: eacf2dd9c576f12a4e79afd93470de7104988003
 sources:
-  "Net-OpenID-Server-1.02.tar.gz": eacf2dd9c576f12a4e79afd93470de7104988003
+  Net-OpenID-Server-1.09.tar.gz: 152495c73e4e09387de10d9dbd9527b52185f1d4
